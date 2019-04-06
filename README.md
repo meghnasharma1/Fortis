@@ -45,5 +45,9 @@
           Browse through the different muscles and enjoy your workout.</p>
           <img src = "https://cdn.psychologytoday.com/sites/default/files/field_blog_entry_images/%20Andrey%20Burmakin_Shutterstock.jpg"/> 
       </div>
+	  <div id="footer" style="font-size:2.75vmin;">
+               <i>Organized and Owned by Fortis</i>
+               <br />
+           </div>
   </body>
 </html>
