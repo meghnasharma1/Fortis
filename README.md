@@ -7,7 +7,6 @@
 	  <link rel="stylesheet" type="text/css" href="main.css"/>
 	  <link rel="icon" href="../icon.png">
 	  <meta charset="utf-8">
-   <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
