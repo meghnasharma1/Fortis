@@ -3,7 +3,6 @@
 <html lang="en-us">
 <html>
   <head>
-	  <title>Fortis HTML</title>
 	  <link rel="stylesheet" type="text/css" href="main.css"/>
 	  <link rel="icon" href="../icon.png">
 	  <meta charset="utf-8">
