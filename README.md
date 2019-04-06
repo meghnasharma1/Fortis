@@ -32,6 +32,41 @@
             </li>
             <li><a href="team.html">Our Team</a></li>
         </ul>
+	       
+	       
+	<!-- Navigation Bar -->
+       <nav class="navbar navbar-default navbar-fixed-top">
+           <div class="container">
+               <div class="navbar-header">
+                   <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+       <span class="icon-bar"></span>
+       <span class="icon-bar"></span>
+       <span class="icon-bar"></span>                       
+     </button>
+                   <a class="navbar-brand" href="/index.html"><img src="/images/homebtn.png" style="max-width:12%; height:auto;transform: translateY(-22%);"></a>
+               </div>
+               <div class="collapse navbar-collapse" id="myNavbar" style="font-size:2.5vmin">
+                   <ul class="nav navbar-nav navbar-right">
+                       <li><a href="README.md">Home</a></li>
+                       <li class="dropdown">
+                           <a href="javascript:void(0)" class="dropbtn">Exercises</a>
+                           <div class="dropdown-content">
+                               <a href="BicepsTriceps.html">Biceps/Triceps</a>
+                               <a href="LatsDeltoids.html">Lats/Deltoids</a>
+                               <a href="ObliquesAbdominals.html">Obliques/Abdominals</a>
+                               <a href="Gluteals.html">Gluteals</a>
+			       <a href="Pectorals.html">Pectorals</a>
+				<a href="Thighs.html">Thighs</a>
+				<a href="Calves.html">Calves</a>
+                           </div>
+                       </li>
+                       <li><a href="team.html">Our Team</a></li>
+                   </ul>
+               </div>
+           </div>
+       </nav>
+	       
+	       
        </div>
        <div class = "main">
        <h1>Fortis</h1>
