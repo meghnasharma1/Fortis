@@ -13,38 +13,12 @@
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   </head>
   <body>
-    <div class = "Whole Thing">
-       <div class = "navbar yeet">
-          <h2>Menu Bar</h2>
-          <ul>
-            <li><a href="README.md">Home</a></li>
-            <li class="dropdown">
-                           <a href="javascript:void(0)" class="dropbtn">Exercises</a>
-                           <div class="dropdown-content">
-                               <a href="BicepsTriceps.html">Biceps/Triceps</a>
-                               <a href="LatsDeltoids.html">Lats/Deltoids</a>
-                               <a href="ObliquesAbdominals.html">Obliques/Abdominals</a>
-                               <a href="Gluteals.html">Gluteals</a>
-			       <a href="Pectorals.html">Pectorals</a>
-				<a href="Thighs.html">Thighs</a>
-				<a href="Calves.html">Calves</a>
-                           </div>
-            </li>
-            <li><a href="team.html">Our Team</a></li>
-        </ul>
-	       
-	       
-	<!-- Navigation Bar -->
-       <nav class="navbar navbar-default navbar-fixed-top">
-           <div class="container">
-               <div class="navbar-header">
                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
        <span class="icon-bar"></span>
        <span class="icon-bar"></span>
        <span class="icon-bar"></span>                       
      </button>
                    <a class="navbar-brand" href="/index.html"><img src="/images/homebtn.png" style="max-width:12%; height:auto;transform: translateY(-22%);"></a>
-               </div>
                <div class="collapse navbar-collapse" id="myNavbar" style="font-size:2.5vmin">
                    <ul class="nav navbar-nav navbar-right">
                        <li><a href="README.md">Home</a></li>
@@ -58,16 +32,12 @@
 			       <a href="Pectorals.html">Pectorals</a>
 				<a href="Thighs.html">Thighs</a>
 				<a href="Calves.html">Calves</a>
-                           </div>
+                           </div> 
                        </li>
                        <li><a href="team.html">Our Team</a></li>
                    </ul>
                </div>
-           </div>
-       </nav>
-	       
-	       
-       </div>
+	      
        <div class = "main">
        <h1>Fortis</h1>
        <p>Unhappy with your body? Wanting to get more healthy? You've come to the right place. 
@@ -75,27 +45,7 @@
           and a variety of exercises that can get you the proper results you wish to see will pop up. 
           Follow each step carefully and do the recommended number of reps for each set of workouts, and you're on your way! 
           Browse through the different muscles and enjoy your workout.</p>
-          <img src = "https://cdn.psychologytoday.com/sites/default/files/field_blog_entry_images/%20Andrey%20Burmakin_Shutterstock.jpg"/>
-       
-	       
-	       <!-- Back to Top Button -->
-           <button onclick="topFunction()" id="myBtn" title="Back to Top"></button>
-
-           <!-- Footer -->
-           <div id="footer" style="font-size:2.75vmin;">
-               <i>Organized and Owned by Fortis</i>
-               <br />
-           </div>
-           <br>
-           <br>
-           <script>
-               // When the user clicks on the button, scroll to the top of the document 
-               function topFunction() {
-                   document.body.scrollTop = 0;
-                   document.documentElement.scrollTop = 0;
-               }
-           </script>
+          <img src = "https://cdn.psychologytoday.com/sites/default/files/field_blog_entry_images/%20Andrey%20Burmakin_Shutterstock.jpg"/> 
       </div>
-    </div>
   </body>
 </html>
