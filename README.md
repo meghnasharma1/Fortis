@@ -12,17 +12,16 @@
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   </head>
   <body> 
-	  <nav class="navbar navbar-default navbar-fixed-top">
-           <div class="container">
+     <nav class="navbar navbar-default navbar-fixed-top">
+          <div class="container">
                <div class="navbar-header">
                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-       <span class="icon-bar"></span>
-       <span class="icon-bar"></span>
-       <span class="icon-bar"></span>                       
-     </button>
-                   <a class="navbar-brand" href="/index.html"><img src="/images/homebtn.png" style="max-width:12%; height:auto;transform: translateY(-22%);"></a>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>                       
+                  </button>
                </div>
-               <div class="collapse navbar-collapse" id="myNavbar" style="font-size:2.5vmin">
+            <div class="collapse navbar-collapse" id="myNavbar" style="font-size:2.5vmin">
                    <ul class="nav navbar-nav navbar-right">
                        <li><a href="README.md">Home</a></li>
                        <li class="dropdown">
@@ -39,9 +38,9 @@
                        </li>
                        <li><a href="team.html">Our Team</a></li>
                    </ul>
-               </div>
            </div>
-       </nav>
+        </div>
+     </nav>
        <div class = "main">
        <h1>Fortis</h1>
        <p>Unhappy with your body? Wanting to get more healthy? You've come to the right place. 
