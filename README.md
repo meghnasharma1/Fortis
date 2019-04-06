@@ -1,4 +1,3 @@
-
 <html xmlns:fb="http://ogp.me/ns/fb#">
 <html lang="en-us">
 <html>
@@ -36,8 +35,7 @@
                        </li>
                        <li><a href="team.html">Our Team</a></li>
                    </ul>
-               </div>
-	      
+	  </div>  
        <div class = "main">
        <h1>Fortis</h1>
        <p>Unhappy with your body? Wanting to get more healthy? You've come to the right place. 
