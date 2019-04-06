@@ -18,7 +18,7 @@
        <div class = "navbar yeet">
           <h2>Menu Bar</h2>
           <ul>
-            <li><a href="main.html">Home</a></li>
+            <li><a href="README.md">Home</a></li>
             <li class="dropdown">
                            <a href="javascript:void(0)" class="dropbtn">Exercises</a>
                            <div class="dropdown-content">
