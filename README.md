@@ -3,7 +3,6 @@
 <html>
   <head>
 	  <link rel="stylesheet" type="text/css" href="style.css"/>
-	  <img src="icon.png"/>
 	  <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -42,6 +41,7 @@
         </div>
      </nav>
        <div class = "main">
+	       <img src="icon.png"/>
        <h1>Fortis</h1>
        <p>Unhappy with your body? Wanting to get more healthy? You've come to the right place. 
           The process is easy- just choose the part of the body you want to improve or work on,
