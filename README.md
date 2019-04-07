@@ -50,7 +50,6 @@ div.main {
         </div>
      </nav>
        <div class = "main">
-       <h1>Fortis</h1>
        <p>Unhappy with your body? Wanting to get more healthy? You've come to the right place. 
           The process is easy- just choose the part of the body you want to improve or work on,
           and a variety of exercises that can get you the proper results you wish to see will pop up. 
