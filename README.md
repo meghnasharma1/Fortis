@@ -27,7 +27,7 @@
                    <ul class="nav navbar-nav navbar-right">
                        <li><a href="main.html">Home</a></li>
 			<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Exercises <b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Exercises<b class="caret"></b></a>
               <ul class="dropdown-menu">
 		      <li><a href="LatsDeltoids.html">Lats/Deltoids</a></li>
 		      <li><a href="BicepsTriceps.html">Biceps/Triceps</a></li>
