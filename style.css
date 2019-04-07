@@ -5,7 +5,7 @@
 
 @media screen and (min-width: 480px) {
 	body {
-		background-color: #cecfff;
+		background-color: red;
 		overflow: auto;
 		font-family: 'Work Sans', sans-serif;
 		color: #163c69;
