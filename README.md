@@ -36,7 +36,7 @@
 		<li><a href="ObliquesAbdominals.html">Obliques/Abdominals</a></li>
                 <li class="divider"></li>
 		<li><a href="Gluteals.html">Gluteals</a></li>
-		<li><a href="Thighs.html">Thighs</a></li>
+		<li><a href="Thighs.html">Quadriceps</a></li>
                 <li><a href="Calves.html">Calves</a></li>
               </ul>
             </li>
