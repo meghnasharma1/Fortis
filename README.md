@@ -22,7 +22,21 @@
             <div class="collapse navbar-collapse" id="myNavbar" style="font-size:2.5vmin">
                    <ul class="nav navbar-nav navbar-right">
                        <li><a href="main.html">Home</a></li>
-                       <li class="dropdown">
+			<li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="ObliquesAbdominals.html">Obliques/Abdominals</a></li>
+		      <li><a href="LatsDeltoids.html">Lats/Deltoids</a></li>
+		      <li><a href="BicepsTriceps.html">Biceps/Triceps</a></li>
+                <li><a href="Gluteals.html">Gluteals</a></li>
+                <li><a href="Pectorals.html">Pectorals</a></li>
+                <li class="divider"></li>
+                <li><a href="Thighs.html">Thighs</a></li>
+                <li class="divider"></li>
+                <li><a href="Calves.html">Calves</a></li>
+              </ul>
+            </li>
+                      <!-- <li class="dropdown">
                            <a href="javascript:void(0)" class="dropbtn">Exercises</a>
                            <div class="dropdown-content">
                                <a href="BicepsTriceps.html">Biceps/Triceps</a>
@@ -34,6 +48,7 @@
 			       <a href="Calves.html">Calves</a>
                            </div>
                        </li>
+-->
                        <li><a href="team.html">Our Team</a></li>
                    </ul>
            </div>
