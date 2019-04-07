@@ -7,13 +7,8 @@
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-	  <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-
-<!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
-<!-- Latest compiled JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -32,16 +27,16 @@
                    <ul class="nav navbar-nav navbar-right">
                        <li><a href="main.html">Home</a></li>
 			<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Exercises <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="ObliquesAbdominals.html">Obliques/Abdominals</a></li>
 		      <li><a href="LatsDeltoids.html">Lats/Deltoids</a></li>
 		      <li><a href="BicepsTriceps.html">Biceps/Triceps</a></li>
-                <li><a href="Gluteals.html">Gluteals</a></li>
                 <li><a href="Pectorals.html">Pectorals</a></li>
                 <li class="divider"></li>
-                <li><a href="Thighs.html">Thighs</a></li>
+		<li><a href="ObliquesAbdominals.html">Obliques/Abdominals</a></li>
                 <li class="divider"></li>
+		<li><a href="Gluteals.html">Gluteals</a></li>
+		<li><a href="Thighs.html">Thighs</a></li>
                 <li><a href="Calves.html">Calves</a></li>
               </ul>
             </li>
