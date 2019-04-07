@@ -3,6 +3,7 @@
 <html>
   <head>
 	  <meta charset="utf-8">
+	   <link href="style.css" rel="stylesheet" type="text/css" />
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
@@ -30,8 +31,8 @@
                                <a href="ObliquesAbdominals.html">Obliques/Abdominals</a>
                                <a href="Gluteals.html">Gluteals</a>
 			       <a href="Pectorals.html">Pectorals</a>
-				<a href="Thighs.html">Thighs</a>
-				<a href="Calves.html">Calves</a>
+			       <a href="Thighs.html">Thighs</a>
+			       <a href="Calves.html">Calves</a>
                            </div>
                        </li>
                        <li><a href="team.html">Our Team</a></li>
