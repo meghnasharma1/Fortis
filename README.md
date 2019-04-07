@@ -25,7 +25,7 @@
                </div>
             <div class="collapse navbar-collapse" id="myNavbar" style="font-size:2.5vmin">
                    <ul class="nav navbar-nav navbar-right">
-                       <li><a href="main.html">Home</a></li>
+                       <li><a href="README.md">Home</a></li>
 			<li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Exercises<b class="caret"></b></a>
               <ul class="dropdown-menu">
